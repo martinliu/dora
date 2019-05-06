@@ -1,6 +1,6 @@
 # Martin Liu的调查问题
 
-## 第一部分
+## 第一部分 - 5
 
 组织级别：行业、规模和所使用操作系统类型。两织角度不同的组织目标问题，如果知道的话选择7种程度，否则选最后一项不知道。最后问到了实施DevOps和敏捷方法的模式，这里列出了多种企业上新套路的模式。
 
@@ -18,7 +18,7 @@ Thank you very much for your time in helping us understand what makes technology
 4. For each of the following performance indicators, how well did your organization meet its goals over the past year? [4个问题] We are also interested in learning about a few other goals. Select the option that indicates how your organization performed for the following goals over the past year  [6个问题]
 5. We are interested in hearing about how DevOps or Agile methods are being spread throughout teams in your organization. Here, we will describe some common patterns we see and ask you to select which of these describe what you most often see in your own organization. (Please select all that apply)
 
-## 第二部分
+## 第二部分 - 7
 
 这部分是关于你的工作，工作的成果，以及对你自己的影响的。
 
@@ -33,7 +33,7 @@ This page contains questions about your work, the outcomes of your work, and how
 7. Sustainability of work is important, and burnout is an important indicator of this. Could you answer a few questions to let us know how your work has affected you?
 
 
-## 第三部分
+## 第三部分 - 5
 
 这部分的问题是关于组织文化、组织结构和沟通方面的。
 
@@ -43,14 +43,14 @@ This page contains questions about your work, the outcomes of your work, and how
 4. For the primary application or service you work on:
 5. Finally, we'd like to learn a bit more about your organization’s culture.
 
-## 第四部分
+## 第四部分 - 2
 
 这部分关于你所处环境中知识是如何供给和获取的。
 
 1. Let’s shift gears a bit. Tell us about  your work day and the work that you do.Where do you go to find information while you are working?
 2. What information sources do you regularly check when you have a question?
 
-## 第五部分
+## 第五部分 - 6
 
 这部分关于你的角色，以及你们团队做变更的特征和模式等。
 
@@ -63,7 +63,7 @@ This page contains questions about your work, the outcomes of your work, and how
 
 
 
-## 第六部分
+## 第六部分 - 5
 
 关于生产环境的可恢复性和相关措施是怎样的。
 
@@ -75,7 +75,7 @@ For the questions on this page, think about the work you do to test the resilien
 4. How often does your organization perform application failover to test for resiliency?
 5. If my organization’s disaster recovery exercises uncover any opportunities for improvement, we create action items and fix these before our next exercise.
 
-## 第七部分
+## 第七部分 - 5
 
 关于云计算的应用策略和特征。
 
@@ -88,7 +88,7 @@ This page will ask questions about you and your organization’s use of the clou
 5. Shift gears a bit. How do you think about costs while you are doing your work?
 
 
-## 第八部分
+## 第八部分 - 11
 
 关于版本控制系统、分支模型、自动化测试、持续集成、持续交付等一直到生产环境的反馈等等实践。
 
@@ -106,7 +106,7 @@ Now let’s talk about the technical work that you and your team does.
 10. For the primary application or service you work on, how long does the deployment process take to make a new version of the software available to customers?
 11. How do you watch and understand your systems at work?
 
-## 第九部分
+## 第九部分 - 6
 
 关于工作环境的DevOps工具链的应用情况和模式。
 
@@ -119,7 +119,7 @@ This page asks about a few more details regarding your technical environment and
 5. Choose which option best represents who has responsibility for creating and maintaining the CI/CD/Test automation toolchain and its configuration:
 6. My toolchain includes the following (Please select all that apply)
 
-## 第十部分
+## 第十部分 - 7
 
 关于调查者本人的个人特征的信息。
 
